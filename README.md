@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently studying at Boğaziçi University, Industrial and Computer Engineering Departments
+- 🌱 I’m currently learning React
+
 <!--
 **kerimkasar/kerimkasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
